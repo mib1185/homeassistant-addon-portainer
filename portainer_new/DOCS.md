@@ -134,12 +134,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[contributors]: https://github.com/hassio-addons/addon-portainer/graphs/contributors
+[contributors]: https://github.com/mib1185/homeassistant-addon-portainer/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-portainer/68836?u=frenck
 [frenck]: https://github.com/frenck
-[issue]: https://github.com/hassio-addons/addon-portainer/issues
+[issue]: https://github.com/mib1185/homeassistant-addon-portainer/issues
 [reddit]: https://reddit.com/r/homeassistant
-[releases]: https://github.com/hassio-addons/addon-portainer/releases
+[releases]: https://github.com/mib1185/homeassistant-addon-portainer/releases
 [semver]: http://semver.org/spec/v2.0.0.htm

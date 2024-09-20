@@ -1,6 +1,6 @@
 {
   "name": "Portainer New",
-  "version": "dev",
+  "version": "0.1.2",
   "slug": "portainer_new",
   "description": "Manage your Docker environment with ease",
   "url": "https://github.com/mib1185/homeassistant-addon-portainer",
